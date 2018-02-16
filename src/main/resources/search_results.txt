@@ -1,0 +1,54 @@
+{
+	"results" : [
+		{
+			"href" : "https://link/to/result",
+			"title" : "Document title",
+			"summary" : "Document summary"
+		},
+		{
+			"href" : "https://link/to/result2",
+			"title" : "Document 2 title",
+			"summary" : "Document 2 summary"
+		},
+        {
+            "href" : "https://link/to/result3",
+            "title" : "Document 3 title",
+            "summary" : "Document 3 summary"
+        },
+        {
+            "href" : "https://link/to/result4",
+            "title" : "Document 4 title",
+            "summary" : "Document 4 summary"
+        },
+		{
+			"href" : "https://link/to/result5",
+			"title" : "Document 5 title",
+			"summary" : "Document 5 summary"
+		},
+		{
+			"href" : "https://link/to/result6",
+			"title" : "Document 6 title",
+			"summary" : "Document 6 summary"
+		},
+		{
+			"href" : "https://link/to/result7",
+			"title" : "Document 7 title",
+			"summary" : "Document 7 summary"
+		},
+		{
+			"href" : "https://link/to/result8",
+			"title" : "Document 8 title",
+			"summary" : "Document 8 summary"
+		},
+		{
+			"href" : "https://link/to/result9",
+			"title" : "Document 9 title",
+			"summary" : "Document 9 summary"
+		},
+		{
+			"href" : "https://link/to/result10",
+			"title" : "Document 10 title",
+			"summary" : "Document 10 summary"
+		}
+	]
+}
